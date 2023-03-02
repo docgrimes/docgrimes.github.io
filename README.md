@@ -1,5 +1,5 @@
-# docgrimes.github.io
-Dr. Grimes' Professional Webpage
+# Welcome to my page!
+This is Dr. Grimes' Professional Webpage
 
 Welcome to my site 'in-progress.' Hopefully this will be updated soon. Be sure to check back!
 
